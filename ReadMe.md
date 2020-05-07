@@ -67,6 +67,8 @@
 
 31.Making a security camera using laptop webcam and streaming it on local network using flask
 
+32.Raspberry Pi Sonoff
+
 ## Project In Progress :
 
 Guys drop your project ideas here one by one we will start workig on it
